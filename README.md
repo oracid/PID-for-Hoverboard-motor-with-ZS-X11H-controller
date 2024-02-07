@@ -7,7 +7,6 @@ In this video, I show how to implement a PID for a Hoverboard motor driven by a 
 ![MultiConnector](https://github.com/oracid/PID-for-Hoverboard-motor-with-ZS-X11H-controller/assets/31382964/e0a2a6ca-954f-44ba-b024-46aba4faeecf)
 ![Microcontroller](https://github.com/oracid/PID-for-Hoverboard-motor-with-ZS-X11H-controller/assets/31382964/2500bce7-f0f7-475b-9254-9131910dbbc1)
 ![CircuitBreaker2](https://github.com/oracid/PID-for-Hoverboard-motor-with-ZS-X11H-controller/assets/31382964/3799d78a-a232-4161-aff6-5b0ebb81951f)
-![Battery](https://github.com/oracid/PID-for-Hoverboard-motor-with-ZS-X11H-controller/assets/31382964/2fd5329e-3791-4654-80b0-3553b47952ad)
 ![ZS-X11H](https://github.com/oracid/PID-for-Hoverboard-motor-with-ZS-X11H-controller/assets/31382964/06d46669-42ea-4a4a-906b-ddd56a0c21dc)
 ![Zoom](https://github.com/oracid/PID-for-Hoverboard-motor-with-ZS-X11H-controller/assets/31382964/8495182d-9d14-425d-bab1-2c7d6b506b7f)
 ![PotPush](https://github.com/oracid/PID-for-Hoverboard-motor-with-ZS-X11H-controller/assets/31382964/23c1fc33-3525-449e-b9ed-3c61904c1ec5)
